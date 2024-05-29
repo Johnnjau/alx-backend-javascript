@@ -1,0 +1,16 @@
+{
+  "name": "es6promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0-main.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node 0-main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
